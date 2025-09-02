@@ -1,8 +1,6 @@
 <!-- Hero banner with animation -->
 
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=👻+Welcome+to+Telegram+Ghost+Bot!;⚡+Educational+Security+Research+Tool;🐳+Docker+Ready+%7C+Python+Powered;✨+Session+Hijacking+%26+Phishing+Demo)</p>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=👻+Welcome+to+Telegram+Ghost+Bot!;⚡+Educational+Security+Research+Tool;🐳+Docker+Ready+%7C+Python+Powered;✨+Session+Hijacking+%26+Phishing+Demo)</p>
 
 <h1 align="center">👻 Telegram Ghost Bot</h1>
 <p align="center">
