@@ -1,0 +1,4 @@
+pyrofork
+TgCrypto
+python-dotenv
+motor
